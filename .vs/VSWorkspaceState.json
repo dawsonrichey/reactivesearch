@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.storybook",
+    "\\app",
+    "\\examples",
+    "\\examples\\airbeds",
+    "\\examples\\whosintown",
+    "\\playground",
+    "\\website"
+  ],
+  "PreviewInSolutionExplorer": false
+}
